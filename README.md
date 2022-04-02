@@ -1,3 +1,10 @@
+# Zustand tutorial
+Short tutorial with some examples of using zustand state management library.
+
+Here is a video demo:
+https://www.youtube.com/watch?v=gz4NgSWjHoY
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
